@@ -1,0 +1,14 @@
+{
+  "name": "dcgdl16",
+  "version": "1.0.0",
+  "description": "DrupalCamp Guadalajara 2016",
+  "main": "app.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.4"
+  }
+}
